@@ -1,4 +1,4 @@
-\begin{lstlisting}[language=java]
+
 class Node <T> {
     /* The Node for use in the SLL. takes a generic 
      * that must be Comparable */
@@ -95,4 +95,4 @@ public class SLL <T> {
    }
 }
 
-\end{lstlisting}
+
